@@ -4,8 +4,14 @@ export default {
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
+
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Sf-Pro-Regular', 'sans-serif'],
+        telegraf: ['Telegraf', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
