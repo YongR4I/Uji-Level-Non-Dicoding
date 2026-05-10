@@ -274,7 +274,7 @@ export default function ProjectsFull() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="1.5" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-bold text-slate-800">Tidak ada hasil ditemukan</h3>
+                  <h3 className="text-xl font-sans text-slate-800">Tidak ada hasil ditemukan</h3>
                   <p className="text-slate-500 mt-2">Coba gunakan kata kunci lain atau pilih kelas yang berbeda.</p>
                 </motion.div>
               )}
