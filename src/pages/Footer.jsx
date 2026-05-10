@@ -27,7 +27,7 @@ export default function Footer() {
             <p className="text-[13px] text-slate-800">
               © 2026 SMKN 1 Ciomas
             </p>
-            <div className="w-px h-3 bg-slate-300" />
+            <div className="w-px h-3 bg-slate-800" />
             <span className="text-[13px] font-sans font-medium text-slate-800 tracking-wide">
               Pameran Uji Level 2026
             </span>
