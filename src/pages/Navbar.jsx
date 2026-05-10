@@ -82,7 +82,7 @@ export default function Navbar() {
           }}
         >
           <img
-            src="/src/assets/logo-pplg.jpg"
+            src="./logo-pplg.jpg"
             alt="Logo"
             className="w-9 h-9 rounded-full object-cover"
           />
